@@ -1,0 +1,83 @@
+---
+title: "Lab 03 - Nobel laureates"
+author: "INSERT TEAM MEMBER NAMES HERE"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Load packages and data
+
+```{r load-packages, message = FALSE, warning=FALSE}
+library(tidyverse) 
+```
+
+```{r load-data, message = FALSE}
+nobel <- read_csv("data/nobel.csv")
+```
+
+### Exercise 1
+
+#### Narrative
+
+*Remove this text and add your answer here.*
+
+
+### Exercise 2
+
+#### Code
+
+```{r nobel-living}
+# remove this comment and add your code here
+```
+
+#### Narrative
+
+*Remove this text and add your answer here.*
+
+
+### Exercise 3
+
+#### Code
+
+```{r facet-bar-plot}
+# remove this comment and add your code here
+```
+
+#### Narrative
+
+*Remove this text and add your answer here.*
+
+
+### Exercise 4
+
+#### Code
+
+```{r born-country-us}
+# remove this comment and add your code here
+```
+
+
+### Exercise 5
+
+#### Narrative
+
+*Remove this text and add your answer here.*
+
+#### Code
+
+```{r facet-bar-plot-redo}
+# remove this comment and add your code here
+```
+
+
+### Exercise 6
+
+#### Code
+
+```{r born-country}
+# remove this comment and add your code here
+```
+
+#### Narrative
+
+*Remove this text and add your answer here.*
