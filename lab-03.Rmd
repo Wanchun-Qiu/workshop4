@@ -5,13 +5,14 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 
+
 ### Load packages and data
 
 ```{r load-packages, message = FALSE, warning=FALSE}
 library(tidyverse) 
 ```
 
-```{r load-data, message = FALSE}
+```{r chunk1, message = FALSE}
 nobel <- read_csv("data/nobel.csv")
 ```
 
