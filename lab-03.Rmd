@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Nobel laureates"
-author: "Hu Wanqing, Josh, Liang Xinyu, Qiu Wanchun"
+author: "Hu Wanqing, Liang Xinyu, Qiu Wanchun"
 date: "`r Sys.Date()`"
 output: html_document
 ---
