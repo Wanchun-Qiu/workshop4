@@ -12,6 +12,8 @@ output: html_document
 library(tidyverse) 
 ```
 
+
+
 ```{r reading-nobe1-data, message = FALSE}
 nobel <- read_csv("data/nobel.csv")
 glimpse("data/nobel.csv")
@@ -21,7 +23,7 @@ glimpse("data/nobel.csv")
 
 #### Narrative
 
-*Remove this text and add your answer here.*
+There are 24310 observations and 26 variables in the dataset, each rows represent the information of an Nobel laureates.
 
 
 ### Exercise 2
